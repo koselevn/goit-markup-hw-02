@@ -1,0 +1,70 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.order-btn {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.order-btn:hover, 
+.order-btn:active {
+    background-color: #404BBF;
+}
+
+.logo-link{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #2E2F42;
+}
+
+.logo-link-span{
+    color: #4D5AE5;
+}
+
+
+.header-menu:hover, 
+.header-menu:active,
+.header-contact:hover,
+.header-contact:active {
+    color: #404BBF;
+}
+
+.title-section{
+    background-color: #2E2F42;
+}
+
+.title-title-text{
+    font-size: 56px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.team-section{
+    background-color: #F4F4FD;
+    font-weight: 700;
+}
+
+.about-list-title,
+.team-list-title,
+.portfolio-list-title {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.about-title-text, 
+.team-title-text,
+.portfolio-title-text
+{
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 700;
+}
