@@ -47,6 +47,11 @@ body {
     color: #434455;
 }
 
+.header-active{
+    color: #2E2F42;
+    font-weight: 500;
+}
+
 .header-contact:hover,
 .header-contact:active,
 .header-contact:focus {
