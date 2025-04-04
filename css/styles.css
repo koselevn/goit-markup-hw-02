@@ -45,8 +45,10 @@ body {
 
 .header-menu:hover, 
 .header-menu:active,
+.header-menu:focus,
 .header-contact:hover,
-.header-contact:active {
+.header-contact:active,
+.header-contact:focus{
     color: #404BBF;
 }
 
