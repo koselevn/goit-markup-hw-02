@@ -39,13 +39,14 @@ body {
     color: #2e2f42;
 }
 
+.logo-link-span-footer{
+    color: #f4f4fd;
+}
+
 .header-contact {
     color: #434455;
 }
 
-.header-menu:hover,
-.header-menu:active,
-.header-menu:focus,
 .header-contact:hover,
 .header-contact:active,
 .header-contact:focus {
