@@ -36,19 +36,19 @@ body {
 }
 
 .logo-link-span{
-    color: #f4f4fd;
+    color: #2e2f42;
 }
 
 .header-contact {
     color: #434455;
 }
 
-.header-menu:hover, 
+.header-menu:hover,
 .header-menu:active,
 .header-menu:focus,
 .header-contact:hover,
 .header-contact:active,
-.header-contact:focus{
+.header-contact:focus {
     color: #404BBF;
 }
 
