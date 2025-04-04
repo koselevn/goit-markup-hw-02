@@ -1,12 +1,20 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
-    font-weight: 400;
+    /* font-size: 16px; */
+    /* line-height: 1.5; */
+    /* font-weight: 400; */
     background-color: #FFFFFF;
-    letter-spacing: 0.02em;
-    text-transform: capitalize
+    /* letter-spacing: 0.02em;
+    text-transform: capitalize */
+}
+
+a {
+text-decoration: none;
+}
+
+ul {
+list-style: none;
 }
 
 .order-btn {
