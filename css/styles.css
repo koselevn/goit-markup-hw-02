@@ -4,7 +4,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     font-weight: 400;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
     letter-spacing: 0.02em;
     text-transform: capitalize
 }
@@ -39,12 +39,24 @@ body {
     color: #f4f4fd;
 }
 
+.header-contact {
+    color: #434455;
+}
 
 .header-menu:hover, 
 .header-menu:active,
 .header-contact:hover,
 .header-contact:active {
     color: #404BBF;
+}
+
+.header-menu:first-child{
+    font-weight: 500;
+    color: #2E2F42;
+}
+
+.header-address {
+    font-style: normal;
 }
 
 .title-section{
@@ -58,6 +70,19 @@ body {
     line-height: 1.07;
     font-weight: 700;
     color: #FFFFFF;
+    letter-spacing: 0.02em
+}
+
+.about-p{
+    color: #434455;
+}
+
+.team-p {
+
+}
+
+.team-card {
+    background-color: #FFFFFF;
 }
 
 .team-section{
@@ -85,6 +110,7 @@ body {
     font-weight: 700;
     text-align: center;
     color: #2e2f42;
+    letter-spacing: 0.02em
 }
 
 .footer{
