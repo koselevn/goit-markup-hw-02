@@ -4,16 +4,23 @@ body {
     font-size: 16px;
     line-height: 1.5;
     font-weight: 400;
+    color: #FFFFFF;
+    letter-spacing: 0.02em;
+    text-transform: capitalize
 }
 
 .order-btn {
     cursor: pointer;
     background-color: #4D5AE5;
     color: #FFFFFF;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
 .order-btn:hover, 
-.order-btn:active {
+.order-btn:active,
+.order-btn:focus {
     background-color: #404BBF;
 }
 
@@ -21,12 +28,15 @@ body {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     color: #2E2F42;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 
 .logo-link-span{
-    color: #4D5AE5;
+    color: #f4f4fd;
 }
 
 
@@ -39,6 +49,8 @@ body {
 
 .title-section{
     background-color: #2E2F42;
+    text-align: center;
+    letter-spacing: 0.02em
 }
 
 .title-title-text{
@@ -57,7 +69,11 @@ body {
 .team-list-title,
 .portfolio-list-title {
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    
 }
 
 .about-title-text, 
@@ -67,4 +83,15 @@ body {
     font-size: 36px;
     line-height: 1.11;
     font-weight: 700;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.footer{
+    background-color: #2E2F42;
+}
+
+.footer-p {
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
